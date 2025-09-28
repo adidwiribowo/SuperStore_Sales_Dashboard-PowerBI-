@@ -1,7 +1,7 @@
 ```markdown
 # SuperStore Sales Dashboard - Power BI  
 
-![Power BI]([https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=power-bi&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&psig=AOvVaw1pEYD7DSK-L2E_83wzkUqP&ust=1759119527897000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCOjIvonN-o8DFQAAAAAdAAAAABAE))  
+![Power BI](Microsoft_Power_BI_Syimbol.png)  
 Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microsoft Power BI** untuk menganalisis penjualan pada dataset *SuperStore*. Dashboard ini dirancang untuk memberikan wawasan bisnis secara cepat dan visual, sehingga membantu pengambilan keputusan berbasis data.  
 
 ---
