@@ -1,7 +1,5 @@
-```markdown
 # SuperStore Sales Dashboard - Power BI  
-
-![Power BI](Microsoft_Power_BI_Syimbol.png)  
+ 
 Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microsoft Power BI** untuk menganalisis penjualan pada dataset *SuperStore*. Dashboard ini dirancang untuk memberikan wawasan bisnis secara cepat dan visual, sehingga membantu pengambilan keputusan berbasis data.  
 
 ---
@@ -23,7 +21,7 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
    - State and Sales Map 
    - Customer Detail Table
 
----
+
 
 ## 🗂 Struktur Repository  
 ```
@@ -35,21 +33,6 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ````
 
----
-
-## 🚀 Cara Menggunakan  
-1. Clone repository ini:  
-   ```bash
-   git clone https://github.com/username/SuperStore_Sales_Dashboard-PowerBI.git
-   cd SuperStore_Sales_Dashboard-PowerBI
-````
-
-2. Buka file **SuperStore_Sales_Dashboard.pbix** menggunakan **Power BI Desktop**.
-3. Pastikan dataset **data_fixed.xlsx** sudah berada dalam folder yang sama atau lakukan relinking data jika dibutuhkan.
-4. Jalankan dashboard untuk eksplorasi interaktif.
-
----
-
 ## 📷 Tampilan Dashboard
 
 ![Dashboard Screenshot](Dashboar_SuperStore_Sales_PowerBI.png)
@@ -58,11 +41,8 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ## 📌 Tools & Teknologi
 
-* **Google Colaboratory**
-* **Microsoft Excel**
-* **Power BI Desktop**
-
-
+* ![Google Colaboratory](Colab.png) 
+* ![Power BI](Microsoft-Power-BI-Syimbol.png) 
 
 ---
 
@@ -75,9 +55,20 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ---
 
+## Kolom utama yang dipakai:
+order_id, order_date, ship_date, ship_mode, customer_name, segment, country, city, state, region, category, sub-category, product_name, sales, quantity, profit (original), profit_fixed, margin_ratio_fixed, payment_mode
+
+---
+
+## Langkah cleaning / normalisasi yang dilakukan (ringkasan):
+* Hitung margin_ratio = profit / sales.
+* Hapus baris dengan sales <= 0 atau margin ekstrim.
+* Perbaiki baris dimana margin > 80% → profit_fixed = sales * median_margin (atau target margin lain) untuk menghilangkan outlier input.
+* Simpan profit asli untuk referensi; gunakan profit_fixed dan margin_ratio_fixed untuk analisis/visualisasi.
+
 ## 🧑‍💻 Author
 
 Created by **Adi Dwi RiBowo**
 
 ```
-```
+
