@@ -1,27 +1,27 @@
 ```markdown
 # SuperStore Sales Dashboard - Power BI  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=power-bi&logoColor=white)  
+![Power BI]([https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=power-bi&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&psig=AOvVaw1pEYD7DSK-L2E_83wzkUqP&ust=1759119527897000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCOjIvonN-o8DFQAAAAAdAAAAABAE))  
 Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microsoft Power BI** untuk menganalisis penjualan pada dataset *SuperStore*. Dashboard ini dirancang untuk memberikan wawasan bisnis secara cepat dan visual, sehingga membantu pengambilan keputusan berbasis data.  
 
 ---
 
 ## 📊 Fitur Dashboard  
-1. **KPI Utama**  
+1. KPI Utama 
    - Total Sales  
    - Total Profit  
    - Total Orders  
    - Total Customers  
    - Average Margin Ratio  
 
-2. **Visualisasi Data**  
-   - **Sales & Profit Trend Over Time**  
-   - **Top 10 Products by Sales**  
-   - **Profit by Category**  
-   - **Sales by Segment**  
-   - **Profitability by Payment Mode**  
-   - **State and Sales Map**  
-   - **Customer Detail Table**  
+2. Visualisasi Data
+   - Sales & Profit Trend Over Time 
+   - Top 10 Products by Sales 
+   - Profit by Category
+   - Sales by Segment 
+   - Profitability by Payment Mode 
+   - State and Sales Map 
+   - Customer Detail Table
 
 ---
 
@@ -58,9 +58,11 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ## 📌 Tools & Teknologi
 
-* **Power BI Desktop**
+* **Google Colaboratory**
 * **Microsoft Excel**
-* **GitHub**
+* **Power BI Desktop**
+
+
 
 ---
 
@@ -75,7 +77,7 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ## 🧑‍💻 Author
 
-Created by **Adi Dwi R Bowo**
+Created by **Adi Dwi RiBowo**
 
 ```
 ```
