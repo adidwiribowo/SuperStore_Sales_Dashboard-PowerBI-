@@ -42,7 +42,7 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 ## 📌 Tools & Teknologi
 
 * ![Google Colaboratory](Colab.png) 
-* ![Power BI](Microsoft-Power-BI-Syimbol.png) 
+* ![Power BI](PowerBI.png) 
 
 ---
 
