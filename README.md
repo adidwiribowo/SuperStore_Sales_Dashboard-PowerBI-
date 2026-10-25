@@ -35,7 +35,7 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ## 📷 Tampilan Dashboard
 
-![Dashboard Screenshot](Dashboar.jpeg)
+![Dashboard Screenshot](Dashboard.jpeg)
 
 ---
 
