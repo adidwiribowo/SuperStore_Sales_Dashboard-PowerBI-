@@ -35,7 +35,7 @@ Proyek ini merupakan implementasi **dashboard interaktif** menggunakan **Microso
 
 ## 📷 Tampilan Dashboard
 
-![Dashboard Screenshot](Dashboar_SuperStore_Sales_PowerBI.png)
+![Dashboard Screenshot](Dashboar.jpeg)
 
 ---
 
